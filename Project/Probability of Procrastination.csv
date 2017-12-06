@@ -1,0 +1,47 @@
+Gender,Age,Social Media,Online Shopping,Gaming System,Gaming Frequency,TV Shows/Movies,Phone Calls,Work,Hanging Out
+Female,18 to 21,> 3 hours a day,< 1 hour a week,Yes,> 3 hours a week,> 3 hours a week,> 1 minute,> 1 hour,3
+Female,18 to 21,> 1 hour a day,< 1 hour a week,Yes,< 1 hour a week,> 3 hours a week,> 3 minutes,> 6 hours,2
+Female,18 to 21,> 3 hours a day,> 1 hour a week,No,N/A,> 6 hours a week,> 3 minutes,> 3 hours,2
+Female,18 to 21,> 1 hour a day,< 1 hour a week,No,N/A,> 6 hours a week,> 10 minutes,> 3 hours,1
+Other,18 to 21,> 5 hours a day,< 1 hour a week,Yes,< 1 hour a week,> 20 hours a week,> 10 minutes,< 1 hour,2
+Male,22 to 27,> 3 hours a day,< 1 hour a week,No,N/A,< 1 hour a week,> 3 minutes,> 3 hours,2
+Male,< 18,> 3 hours a day,< 1 hour a week,Yes,> 10 hours a week,> 10 hours a week,< 1 minute,> 10 hours,2
+Female,22 to 27,> 3 hours a day,< 1 hour a week,Yes,> 1 hour a week,> 3 hours a week,> 30 minutes,> 1 hour,1
+Female,41 to 60,> 1 hour a day,< 1 hour a week,Yes,N/A,> 1 hour a week,> 3 minutes,> 10 hours,3
+Female,18 to 21,> 1 hour a day,> 1 hour a week,No,N/A,> 6 hours a week,> 3 minutes,> 1 hour,3
+Female,18 to 21,> 1 hour a day,< 1 hour a week,No,N/A,> 6 hours a week,> 10 minutes,> 3 hours,2
+Female,22 to 27,> 3 hours a day,> 3 hours a week,No,N/A,> 6 hours a week,> 10 minutes,> 6 hours,1
+Male,28 to 40,> 1 hour a day,< 1 hour a week,Yes,< 1 hour a week,> 6 hours a week,> 10 minutes,> 6 hours,1
+Male,22 to 27,< 1 hour a day,< 1 hour a week,Yes,> 3 hours a week,> 20 hours a week,> 3 minutes,> 3 hours,7
+Female,< 18,> 5 hours a day,< 1 hour a week,No,N/A,< 1 hour a week,> 30 minutes,> 3 hours,10
+Female,18 to 21,< 1 hour a day,< 1 hour a week,Yes,< 1 hour a week,> 3 hours a week,> 3 minutes,> 6 hours,3
+Female,18 to 21,> 3 hours a day,> 3 hours a week,No,N/A,> 20 hours a week,> 30 minutes,< 1 hour,2
+Male,22 to 27,> 3 hours a day,< 1 hour a week,Yes,> 20 hours a week,,< 1 minute,< 1 hour,4
+Female,22 to 27,> 1 hour a day,< 1 hour a week,No,N/A,> 10 hours a week,> 3 minutes,> 6 hours,3
+Male,22 to 27,> 3 hours a day,> 5 hours a week,No,N/A,> 20 hours a week,> 30 minutes,> 1 hour,5
+Female,18 to 21,> 3 hours a day,< 1 hour a week,No,N/A,> 10 hours a week,> 1 minute,> 3 hours,3
+Male,41 to 60,> 3 hours a day,> 3 hours a week,Yes,< 1 hour a week,< 1 hour a week,> 1 minute,> 6 hours,8
+Male,18 to 21,> 3 hours a day,< 1 hour a week,Yes,< 1 hour a week,> 10 hours a week,> 30 minutes,> 3 hours,3
+Male,28 to 40,> 1 hour a day,> 1 hour a week,Yes,> 5 hours a week,> 10 hours a week,> 3 minutes,> 6 hours,2
+Female,18 to 21,> 5 hours a day,> 5 hours a week,No,N/A,> 40 hours a week,> 1 hour,> 1 hour,7
+Other,22 to 27,> 5 hours a day,< 1 hour a week,Yes,> 20 hours a week,> 20 hours a week,> 3 minutes,> 10 hours,0
+Male,22 to 27,< 1 hour a day,< 1 hour a week,Yes,< 1 hour a week,> 6 hours a week,> 30 minutes,> 1 hour,3
+Male,18 to 21,> 1 hour a day,< 1 hour a week,No,,> 3 hours a week,> 10 minutes,< 1 hour,2
+Male,41 to 60,< 1 hour a day,< 1 hour a week,No,N/A,< 1 hour a week,< 1 minute,> 10 hours,2
+Female,18 to 21,> 1 hour a day,< 1 hour a week,Yes,> 1 hour a week,> 3 hours a week,> 1 minute,> 3 hours,3
+Male,18 to 21,> 1 hour a day,< 1 hour a week,Yes,> 5 hours a week,> 3 hours a week,> 1 minute,> 3 hours,4
+Female,18 to 21,> 3 hours a day,< 1 hour a week,No,N/A,> 3 hours a week,> 30 minutes,> 3 hours,3
+Male,22 to 27,< 1 hour a day,< 1 hour a week,Yes,> 1 hour a week,> 1 hour a week,< 1 minute,> 6 hours,2
+Female,18 to 21,> 1 hour a day,> 1 hour a week,No,N/A,> 1 hour a week,> 3 minutes,> 3 hours,3
+Other,18 to 21,> 1 hour a day,< 1 hour a week,No,< 1 hour a week,> 3 hours a week,> 1 minute,> 3 hours,2
+Female,22 to 27,> 3 hours a day,> 1 hour a week,No,N/A,> 6 hours a week,> 1 minute,> 6 hours,4
+Male,< 18,> 1 hour a day,> 1 hour a week,Yes,> 3 hours a week,> 3 hours a week,< 1 minute,> 3 hours,4
+Male,22 to 27,> 1 hour a day,< 1 hour a week,No,N/A,> 1 hour a week,> 1 minute,> 3 hours,2
+Female,18 to 21,> 1 hour a day,< 1 hour a week,No,< 1 hour a week,> 3 hours a week,> 1 minute,> 3 hours,5
+Male,18 to 21,> 3 hours a day,< 1 hour a week,Yes,> 20 hours a week,,> 3 minutes,< 1 hour,4
+Male,18 to 21,> 3 hours a day,< 1 hour a week,Yes,> 3 hours a week,> 3 hours a week,< 1 minute,> 3 hours,2
+Female,22 to 27,> 3 hours a day,> 3 hours a week,No,N/A,> 3 hours a week,> 1 minute,> 6 hours,4
+Female,28 to 40,> 1 hour a day,< 1 hour a week,No,N/A,> 1 hour a week,> 3 minutes,> 10 hours,1
+Female,41 to 60,< 1 hour a day,> 1 hour a week,No,N/A,> 1 hour a week,> 3 minutes,> 6 hours,2
+Female,22 to 27,> 3 hours a day,< 1 hour a week,Yes,> 1 hour a week,> 3 hours a week,> 1 minute,> 6 hours,2
+Male,18 to 21,> 1 hour a day,< 1 hour a week,No,N/A,> 10 hours a week,< 1 minute,< 1 hour,5
