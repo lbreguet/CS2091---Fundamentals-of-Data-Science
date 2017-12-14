@@ -1,4 +1,4 @@
-What is your gender?,How old are you?,How much time do you spend on social media?,How much time do you spend shopping online?,Do you own a gaming system?,"If you answered ""Yes"" to the previous question, how many hours a week do you play video games?",How much time do you spend watching tv shows and movies in a week?,"On average, how long are your phone calls?",How much time do you devote to working a day?,How frequently do you hang out with friends per week? (Just type a number)
+Gender,Age,Social Media,Online Shopping,Gaming System,Gaming Frequency,TV Shows/Movies,Phone Calls,Work,Hang Out
 Female,18 to 21,> 3 hours a day,< 1 hour a week,Yes,> 3 hours a week,> 3 hours a week,< 1 minute,> 1 hour a week,3
 Female,18 to 21,> 1 hour a day,< 1 hour a week,Yes,< 1 hour a week,> 3 hours a week,> 3 minutes,> 6 hours a week,2
 Female,18 to 21,> 3 hours a day,> 1 hour a week,No,N/A,> 6 hours a week,> 3 minutes,> 3 hours a week,2
